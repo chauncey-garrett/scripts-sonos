@@ -19,7 +19,7 @@ If you have feature suggestions, please open an [issue][1]. If you have contribu
 
   - [Chauncey Garrett][4]
 
-[![][5]](http://chauncey.io/about/index.html)
+[![][5]](http://chauncey.io/about/index.html#donate)
 
 
 [1]: https://github.com/chauncey-garrett/applescript-sonos/issues "chauncey-garrett/applescript-sonos/issues"
