@@ -15,11 +15,15 @@ If you have feature suggestions, please open an [issue][1]. If you have contribu
 
 ## Author(s)
 
-*The author(s) of this module should be contacted via the [issue tracker][1].*
+*The author(s) of this module should be contacted via the [issue tracker][3].*
 
   - [Chauncey Garrett][4]
+
+[![][5]](http://chauncey.io/about/index.html)
 
 
 [1]: https://github.com/chauncey-garrett/applescript-sonos/issues "chauncey-garrett/applescript-sonos/issues"
 [2]: https://github.com/chauncey-garrett/applescript-sonos/pull-request "chauncey-garrett/applescript-sonos/pulls"
+[3]: https://github.com/chauncey-garrett/applescript-sonos/issues "chauncey-garrett/applescript-sonos/issues"
 [4]: https://github.com/chauncey-garrett "chauncey-garrett"
+[5]: /img/donate.png
