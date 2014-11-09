@@ -1,4 +1,6 @@
+--
 -- Play/Pause
+--
 
 tell application "System Events"
     tell process "Sonos"

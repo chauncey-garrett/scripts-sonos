@@ -1,4 +1,6 @@
+--
 -- Mute
+--
 
 tell application "System Events"
     tell process "Sonos"
