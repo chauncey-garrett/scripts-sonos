@@ -13,13 +13,13 @@ At this point, there are scripts that can do the following:
 
 Fork the repo and clone to your desired location.
 
-```
+```sh
 git clone https://github.com/chauncey-garrett/scripts-sonos
 ```
 
 If you plan on contributing back to the repository, add the following to `.git/config` **before making any commits.** This code will ensure that the AppleScripts are viewable under version control by decompiling them to plain text before updating the repository.
 
-```
+```sh
 [filter "ascr"]
 	clean = "$(git rev-parse --show-toplevel)"/git-ascr-filter.sh --clean %f
 	smudge = "$(git rev-parse --show-toplevel)"/git-ascr-filter.sh --smudge %f
