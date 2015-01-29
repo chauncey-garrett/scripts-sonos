@@ -61,4 +61,4 @@ If you have feature suggestions, please open an [issue](https://github.com/chaun
 
   - [Chauncey Garrett](https://github.com/chauncey-garrett "chauncey-garrett")
 
-[![](/img/tip.gif)](http://chauncey.io/about/index.html#tip)
+[![](/img/tip.gif)](http://chauncey.io/reader-support/)
