@@ -10,12 +10,12 @@ noindex: false
 permalink: /projects/scripts/sonos/
 external-url:
 tags:
-- sonos
-- scripts
-- github
+  - sonos
+  - scripts
+  - github
 category: project
 description: Scripts for Sonos.
-keywords: TODO
+keywords:
 sharing: true
 comments: false
 footer: true
