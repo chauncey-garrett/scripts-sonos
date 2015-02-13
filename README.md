@@ -24,7 +24,7 @@ footer: true
 * Table of Contents placeholder (via kramdown)
 {:toc}
 
-# Scripts for SONOS
+## Scripts for SONOS
 
 This is a stop-gap collection of scripts (including AppleScripts) for the SONOS OS X controller. Whether or not AppleScript will ever officially be supported by SONOS is up in the air. Since most of what can be done is limited by GUI scripting, these scripts can easily break, further implementation is limited, and are overall very hacky.
 
@@ -35,7 +35,7 @@ At this point, there are scripts that can do the following:
 - Volume Down
 - Mute
 
-# Installation
+## Installation
 
 Fork the repo and clone to your desired location.
 
@@ -51,11 +51,11 @@ If you plan on contributing back to the repository, add the following to `.git/c
 	smudge = "$(git rev-parse --show-toplevel)"/git-ascr-filter.sh --smudge %f
 ```
 
-# Like it?
+## Like it?
 
 If you have feature suggestions, please open an [issue](https://github.com/chauncey-garrett/scripts-sonos/issues "chauncey-garrett/scripts-sonos/issues"). If you have contributions, open a [pull request](https://github.com/chauncey-garrett/scripts-sonos/pull-request "chauncey-garrett/scripts-sonos/pulls"). I'd love to expand this library as much as is possible.
 
-# Author(s)
+## Author(s)
 
 *The author(s) of this module should be contacted via the [issue tracker](https://github.com/chauncey-garrett/scripts-sonos/issues "chauncey-garrett/scripts-sonos/issues").*
 
